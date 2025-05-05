@@ -4,7 +4,9 @@
 <p align="center">
   <em>Một sản phẩm của <strong>VAI Studio</strong><br>A horror detective indie game from Vietnam</em>
 </p>
-<img src="./logo.jpg">
+<p align="center">
+  <img src="./logo.jpg" alt="Logo">
+</p>
 <hr>
 
 <h2>🎮 Thể loại | Genre</h2>
