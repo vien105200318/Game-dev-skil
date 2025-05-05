@@ -4,7 +4,7 @@
 <p align="center">
   <em>Một sản phẩm của <strong>VAI Studio</strong><br>A horror detective indie game from Vietnam</em>
 </p>
-
+<img src="./logo.jpg">
 <hr>
 
 <h2>🎮 Thể loại | Genre</h2>
@@ -31,20 +31,6 @@
   <li><code>Git</code> + <code>GitHub</code> - Quản lý mã nguồn<br><em>Version control</em></li>
   <li><code>ChatGPT</code> - Hỗ trợ ý tưởng, nội dung, logic<br><em>Creative and code assistant</em></li>
 </ul>
-
-<h2>📁 Cấu trúc thư mục | Folder Structure</h2>
-
-<pre>
-/Assets
-  /Scenes
-    /Testday01        # Ngày phát triển đầu tiên - First prototype: crime scene
-  /Scripts
-  /Prefabs
-  /Models
-  /UI
-  /Audio
-README.md
-</pre>
 
 <h2>👥 Nhóm phát triển | Dev Team</h2>
 <ul>
