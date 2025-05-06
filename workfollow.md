@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Review Mã - Dự Án Detective Game</title>
+    <title>DEV-workfollow</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -24,6 +24,7 @@
             padding: 10px;
             border-radius: 5px;
             margin-bottom: 20px;
+            white-space: pre-wrap;
         }
         .code-block {
             background-color: #e9e9e9;
@@ -45,6 +46,14 @@
         }
         .highlight {
             color: #1e7e34;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 6px;
+            border-radius: 4px;
         }
     </style>
 </head>
